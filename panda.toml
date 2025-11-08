@@ -26,7 +26,7 @@
 "ui.statusline.select" = "#31F3D1"
 "ui.text.focus" = { fg = "#31F3D1" }
 "ui.virtual" = { bg = "151616" }
-"ui.virtual.indent-guide" = { fg = "gray" }
+"ui.virtual.indent-guide" = { fg = "gray", modifiers = ["dim"] }
 "ui.virtual.whitespace" = {}
 "ui.virtual.wrap" = { fg = "gray" }
 "ui.virtual.inlay-hint" = { fg = "light-gray", modifiers = ["dim", "italic"] }
