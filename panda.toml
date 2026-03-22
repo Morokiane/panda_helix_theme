@@ -6,7 +6,7 @@
 "ui.cursor.match" = { fg = "#31F3D1", modifiers = ["reversed"] }
 "ui.cursor.primary" = { fg = "#F56BA6", modifiers = ["reversed"] }
 "ui.cursor.secondary" = { fg = "#F56BA6", modifiers = ["reversed"] }
-"ui.highlight" = "white"
+"ui.highlight" = { bg = "#1A1A1A" }
 # "ui.cursor.primary.insert" = { bg = "#31F3D1", modifiers = ["reversed"] }
 # "ui.cursor.primary.select" = { bg = "#F1A865", modifiers = ["reversed"] }
 "ui.gutter" = "#1A1A1A"
